@@ -1,4 +1,4 @@
-import "../dist/css/main.css";
+import "./main.css";
 
 const menuBtn = document.querySelector('.menu-btn');
 const hamburger = document.querySelector('.menu-btn_burger');
